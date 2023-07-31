@@ -1,5 +1,5 @@
-# [Protopool](https://www.protopool.xyz/)
-![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fprotopool_xyz&style=plastic&logo=twitter&label=Follow%20us%20on%20Twitter%2FX%2F%3F)
+# [Protopool](https://www.protopool.xyz/) ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fprotopool_xyz&style=plastic&logo=twitter&label=Follow%20us%20on%20Twitter%2FX%2F%3F&link=https%3A%2F%2Ftwitter.com%2Fprotopool_xyz)
+
 
 Protopool is a decentralized liquid staking service built using SSV Network's Distributed Validator Technology (DVT).
 
